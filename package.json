@@ -1,0 +1,16 @@
+{
+  "name": "malyawka.unity-mesh-importer",
+  "version": "1.0.0",
+  "displayName": "Unity Mesh Importer",
+  "description": "Unity Mesh Importer",
+  "unity": "2022.1",
+  "keywords": [
+    "Unity-Mesh-Importer",
+    "Unity",
+    "Mesh",
+    "Importer"
+  ],
+  "author": {
+    "name": "malyawka"
+  }
+}
